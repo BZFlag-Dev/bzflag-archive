@@ -1,0 +1,11 @@
+Branches are lines of code that run paralel to the mainline ( or trunk).
+
+Branches are made for various reasons, such as;
+
+An experiment that may not work out.
+A project done by a student or intern that must be evaluated seperately.
+Minor fixes to an older version of the code while new develoment happens in in the mainline.
+
+The 'current' code for each major release has it's own associated branch in the release_maint directory.
+All the Google Summer of Code projets are in the summer of code directory.
+The experimental directory contains branches that were used to test new ideas but did not make it fully into the mainline. They are intended as archives.
